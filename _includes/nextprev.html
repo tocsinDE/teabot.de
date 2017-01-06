@@ -1,0 +1,5 @@
+{% if page.previous.url %}<a href="{{ page.previous.url }}" title="← zurück"><div class="prev{% unless page.next.url %} full{% endunless %}"{% if page.previous.image %} style="background-image:url('/assets/img{% if include.imgSubfolder %}{{ include.imgSubfolder }}{% endif %}/{% if page.previous.bgimage %}{{ page.previous.bgimage }}{% else %}{{ page.previous.image }}{% endif %}')"{% endif %}>
+<span>← {{ page.previous.title }}</span>
+</div></a>{% endif %}{% if page.next.url %}<a href="{{ page.next.url }}" title="weiter →"><div class="next{% unless page.previous.url %} full{% endunless %}"{% if page.next.image %} style="background-image:url('/assets/img{% if include.imgSubfolder %}{{ include.imgSubfolder }}{% endif %}/{% if page.next.bgimage %}{{ page.next.bgimage }}{% else %}{{ page.next.image }}{% endif %}')"{% endif %}>
+<span>{{ page.next.title }} →</span>
+</div></a>{% endif %}

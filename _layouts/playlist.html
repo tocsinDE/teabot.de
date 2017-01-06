@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="fullimage" style="background-image:url('/assets/img/playlists/{% if page.bgimage %}{{ page.bgimage }}{% else %}{{ page.image }}{% endif %}')">
+
+	{% if page.previous.url %}<a href="{{ page.previous.url }}" title="← zur vorherigen Playlist"><span>← {{ page.previous.title }}</span></a>{% endif %}
+	{% if page.next.url %}<a href="{{ page.next.url }}" title="zur nächsten Playlist →"><span class="fr">{{ page.next.title }} →</span></a>{% endif %}
+
+</div>
+
+<article>
+
+	<h1 itemprop="name headline">{{ page.title }}</h1>
+
+	<div class="playlist">
+		{{ content }}
+	</div>
+
+	<aside>
+
+		{% if page.image %}<img src="/assets/img/playlists/{{ page.image }}" alt="" title="" />{% endif %}
+
+		<p class="text">
+			<i>{{ page.description }}</i>
+		</p>
+		
+		<p>
+			<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:user:letslistentogether:playlist:{{ page.spotify }}&theme=white" allowtransparency="true" frameborder="0"></iframe>
+		</p>
+		<p>
+			{% if page.spotify %}<a href="{{ page.spotify }}" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</span></a>{% endif %}{% if page.applemusic %}<br/><a href="{{ page.applemusic }}" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fa fa-apple" aria-hidden="true"></i> Apple Music</span></a>{% endif %}
+		</p>
+
+	</aside>
+</article>
+
+{% include nextprev.html imgSubfolder="/playlists" %}

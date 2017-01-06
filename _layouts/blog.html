@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article>
+  <h1>Blog</h1>
+
+  {% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%B %Y" %}
+    {% if currentdate != date %}
+
+      {% assign date_german = currentdate | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"October","Oktober"| replace:"December","Dezember" %}
+
+      <h2 id="{{ post.date | date: "%Y-%m"}}">{{ date_german }}</h2>
+      {% assign date = currentdate %}
+    {% endif %}
+
+    <p><a href="{{ post.url }}" title="zum Blogeintrag"><span class="button mr">{{ post.date | date: "%d.%m.%y"}}</span> {{ post.title }}</a></p>
+
+  {% endfor %}
+</article>
