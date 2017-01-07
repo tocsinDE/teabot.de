@@ -37,3 +37,4 @@ exclude:
   - Gemfile.lock
   - repoheader.png
   - README.md
+  - vendor
