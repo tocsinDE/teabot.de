@@ -7,8 +7,7 @@ layout: default
   Dies hier ist Teabot, mein kleiner Blog über Gecodetes, Musik, Serien und den ganzen anderen Kram.
 </div>
 
-<!--<div class="row two">-->
-{% for post in site.posts %}<article>
+{% for post in site.posts limit:6 %}{% if forloop.index == 3 %}<div class="row two">{% endif %}<article>
   <a href="{{ post.url | relative_url }}" title="zum Blogeintrag"><h1>{{ post.title | escape }}</h1></a>
   <p class="meta">
     <span class="date" title="Datum der Veröffentlichung"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%d.%m.%y" }}</span>
@@ -22,5 +21,4 @@ layout: default
   </div>
 
   <p class="readon"><a href="{{ post.url | relative_url }}" title="zum Blogeintrag">Artikel weiterlesen</a></p>
-</article>{% endfor %}
-<!--</div>-->
+</article>{% if forloop.last %}</div>{% endif %}{% endfor %}

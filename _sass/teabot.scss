@@ -98,6 +98,8 @@ header {
 
     svg {
       vertical-align: middle;
+      width: 10%;
+      margin-right: 2%
     }
 
     &:hover span {
@@ -582,6 +584,11 @@ iframe.spotify {
 
 @media screen and (max-width: 700px) {
     $padding: 5%;
+
+    header .logo svg {
+      width: 15%;
+      margin-right: 5%
+    }
 
     .playlist, aside {width:100%}
     
