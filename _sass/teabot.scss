@@ -93,8 +93,9 @@ header {
   overflow: auto;
 
   .logo {
-    float: left;
     vertical-align: middle;
+    display: inline;
+    width: auto;
 
     svg {
       vertical-align: middle;
