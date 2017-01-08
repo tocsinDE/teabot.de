@@ -5,7 +5,7 @@ description: "Have a break, have a newsic playlist."
 image: "newsic-017.jpg"
 bgimage: "newsic-017_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/6POrHuI2gROGWtsi77uV7Z"
-applemusic: ""
+applemusic: "https://itunes.apple.com/de/playlist/newsic-017-have-commercial/idpl.35bdcf51cb324c10addd579bf994e1b9"
 ---
 
 <ol>
@@ -25,7 +25,7 @@ applemusic: ""
 	<li>Safe And Sound - Capital Cities</li>
 	<li>Berlin - RY X</li>
 	<li>Your Firefly (Radio Edit) - AirDice & Ben Cocks</li>
-	<li>Welcome Home, Son - Radicala Face</li>
+	<li>Welcome Home - Radical Face</li>
 	<li>Another Love - Tom Odell</li>
 	<li>Song (String Version) - Kidstreet</li>
 	<li>Tonight You Belong To Me - Patience & Prudence</li>

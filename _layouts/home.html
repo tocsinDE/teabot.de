@@ -21,4 +21,4 @@ layout: default
   </div>
 
   <p class="readon"><a href="{{ post.url | relative_url }}" title="zum Blogeintrag">Artikel weiterlesen</a></p>
-</article>{% if forloop.last %}</div>{% endif %}{% endfor %}
+</article>{% if forloop.index > 2 and forloop.last %}</div>{% endif %}{% endfor %}

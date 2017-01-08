@@ -19,7 +19,7 @@ layout: default
 
 	<aside>
 
-		{% if page.image %}<img src="/assets/img/playlists/{{ page.image }}" alt="" title="" />{% endif %}
+		{% if page.image %}<img src="/assets/img/playlists/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}" />{% endif %}
 
 		<p class="text">
 			<i>{{ page.description }}</i>
@@ -29,7 +29,8 @@ layout: default
 			<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:user:letslistentogether:playlist:{{ page.spotify }}&theme=white" allowtransparency="true" frameborder="0"></iframe>
 		</p>
 		<p>
-			{% if page.spotify %}<a href="{{ page.spotify }}" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</span></a>{% endif %}{% if page.applemusic %}<br/><a href="{{ page.applemusic }}" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fa fa-apple" aria-hidden="true"></i> Apple Music</span></a>{% endif %}
+			{% if page.spotify %}<a href="{{ page.spotify }}" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</span></a>{% endif %}
+			{% if page.applemusic %}<br/><a href="{{ page.applemusic }}" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fa fa-apple" aria-hidden="true"></i> Apple Music</span></a>{% endif %}
 		</p>
 
 	</aside>
