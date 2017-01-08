@@ -504,8 +504,12 @@ ul, ol {
   text-align: left;
 }
 
-iframe.spotify {
+iframe {
   width: 100%;
+  border: 0px;
+}
+
+iframe.spotify {
   height: 80px
 }
 
