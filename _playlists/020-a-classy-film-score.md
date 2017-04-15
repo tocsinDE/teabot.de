@@ -1,11 +1,12 @@
 ---
 layout: playlist
 title: "newsic #020: A classy film score"
-description: '"Weißt du, was ich manchmal denke? Es müsste immer Musik da sein. Bei allem, was du machst. Und wenns so richtig scheiße ist, ist wenigstens noch die Musik da. Und an der Stelle, wo es am allerschönsten ist, da müsste die Platte springen und du hörst immer nur diesen einen Moment." - Absolute Giganten'
+description: '"Weißt du, was ich manchmal denke? Es müsste immer Musik da sein. Bei allem, was du machst. Und wenns so richtig scheiße ist, ist wenigstens noch die Musik da. Und an der Stelle, wo es am allerschönsten ist, da müsste die Platte springen und du hörst immer nur diesen einen Moment." - [Absolute Giganten]'
 image: "newsic-020.jpg"
 bgimage: "newsic-020_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/0iltdgFrLmO99N2RadjkDd"
-#applemusic: "TBR"
+applemusic: "https://itunes.apple.com/de/playlist/newsic-020-a-classy-film-score/idpl.a40112cefdc7492a90a9beec9b4708c3"
+youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvcqQ17KVl6s27MiB2gc3d5O"
 ---
 
 <ol>

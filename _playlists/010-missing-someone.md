@@ -35,27 +35,3 @@ applemusic: "https://itunes.apple.com/de/playlist/newsic-010-missing-someone./id
 	<li>I'm with You - Avril Lavigne</li>
 	<li>Euforia - OK KID</li>
 </ol>
-
-
-<!-- 
-<h2>Playlist</h2>
-<ol>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-	<li>Jet - Put Your Money Where Your Mouth Is fref ergre  <a href=""><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:0.5em"></i></a> </li>
-	<li>K. Flay - The Cops <a href=""><i class="fa fa-file-text-o"  style="font-size:0.5em" aria-hidden="true"></i> </a></li>
-
-</ol>
-
-
-<h3>Anmerkungen</h3> -->

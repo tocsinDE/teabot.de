@@ -17,7 +17,7 @@ layout: default
 		<img src="/assets/img/playlists/{{ playlist.image }}" alt="{{ playlist.title }}" title="{{ playlist.title }}">
 		<h2>{{ playlist.title }}</h2>
 	</a>
-	<br/>{% if playlist.spotify %}<a href="{{ playlist.spotify }}" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</span></a>{% endif %}{% if playlist.applemusic %}<br/><a href="{{ playlist.applemusic }}" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fa fa-apple" aria-hidden="true"></i> Apple Music</span></a>{% endif %}
+	<br/>{% if playlist.spotify %}<a href="{{ playlist.spotify }}" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</span></a>{% endif %}{% if playlist.applemusic %}<br/><a href="{{ playlist.applemusic }}" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fa fa-apple" aria-hidden="true"></i> Apple Music</span></a>{% endif %}{% if playlist.youtube %}<br/><a href="{{ playlist.youtube }}" target="_blank" title="öffnet die Playlist auf YouTube"><span class="button"><i class="fa fa-youtube-play" aria-hidden="true"></i> YouTube</span></a>{% endif %}
 
 </article>{% endfor %}
 </div>
