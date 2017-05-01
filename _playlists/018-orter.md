@@ -28,7 +28,7 @@ applemusic: "https://itunes.apple.com/de/playlist/newsic-018-orter/idpl.79302bce
 	<li>Lovefool - Willa</li>
 	<li>Revolution - EC Twins & Guordan Banks</li>
 	<li>Lemon Tree - Sugarpie And The Candymen</li>
-	<li>Fast Car - Tobtok - River</li>
+	<li>Fast Car - Tobtok & River</li>
 	<li>Ain‘t No Sunshine - Poldoore</li>
 	<li>Would I Lie To You - Leeson & Donny Osmond</li>
 	<li>Dancing In The Dark - Hot Chip</li>

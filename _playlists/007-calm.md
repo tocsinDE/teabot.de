@@ -21,7 +21,7 @@ applemusic: "https://itunes.apple.com/de/playlist/newsic-007-calm./idpl.737a1914
 	<li>Warm in meinem Herz - Desiree Klaeukens</li>
 	<li>Firestarter - Torre Florim</li>
 	<li>I Remember - Jon Hopkins</li>
-	<li>Jack and the Giant - A Lole Like Pi</li>
+	<li>Jack and the Giant - A Love Like Pi</li>
 	<li>Daydream - Navelin</li>
 	<li>July Flame - Laura Veirs</li>
 	<li>Grizzly Bear - Angus & Julia Stone</li>
