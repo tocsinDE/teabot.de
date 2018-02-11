@@ -7,6 +7,7 @@ bgimage: "newsic-022_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/000fEBc8WQc0DsCyyBBFBe"
 #applemusic: ""
 youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvfxU4c9y_aPXjfY1HCz0Xo4"
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-022-retro4"
 ---
 
 <ol>

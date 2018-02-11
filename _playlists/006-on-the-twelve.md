@@ -6,6 +6,8 @@ image: "newsic-006.jpg"
 bgimage: "newsic-006_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/2PZDBhvJxVB1ndKLLc55Ri"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-006-on-the-twelve/idpl.a838994778e44c3aafe0d4a676806774"
+youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-006-on-the-twelve"
 ---
 
 <ol>

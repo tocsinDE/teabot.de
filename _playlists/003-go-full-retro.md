@@ -6,6 +6,8 @@ image: "newsic-003.jpg"
 bgimage: "newsic-003_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/3p1wmwXqcBpiPy4hjtJ4RG"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-003-go-full-retro./idpl.b8e9547bf666496aad2cfd19085ad016"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-003-go-full-retro"
 ---
 
 <ol>

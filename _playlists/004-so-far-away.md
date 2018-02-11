@@ -6,6 +6,8 @@ image: "newsic-004.jpg"
 bgimage: "newsic-004_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/0dcajzPi9RvCSy47UKAcbc"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-004-im-so-far-away./idpl.7222d8b3219f451695226a73bf4dd7be"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-004-so-far-away"
 ---
 
 <ol>

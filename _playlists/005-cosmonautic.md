@@ -6,6 +6,8 @@ image: "newsic-005.jpg"
 bgimage: "newsic-005_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/0SlEaxchFRYrHRn4R3j3Rt"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-005-cosmonautic./idpl.32082c1cbd2e447db69c02fada47db7d"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-005-cosmonautic"
 ---
 <ol>
 	<li>Pitch Black Dark - Okta Logue</li>

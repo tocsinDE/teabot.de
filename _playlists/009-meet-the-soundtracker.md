@@ -6,6 +6,8 @@ image: "newsic-009.jpg"
 bgimage: "newsic-009_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/1a8dfreD3fIUxAX8rvyuMf"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-009-meet-soundtracker./idpl.e0c858dab0d948909058895dfad551d6"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-009-meet-the-soundtracker"
 ---
 
 <ol>

@@ -6,6 +6,8 @@ image: "newsic-018.jpg"
 bgimage: "newsic-018_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/0eIssFTOEx3qP8sUmfoyXf"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-018-orter/idpl.79302bce67b74e459027fcd1f1b5a973"
+youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvfaCzZvbUvMivDw0bBknAni"
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-018-orter"
 ---
 
 <ol>

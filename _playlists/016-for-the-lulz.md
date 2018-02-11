@@ -6,6 +6,8 @@ image: "newsic-016.jpg"
 bgimage: "newsic-016_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/68CUAltoxbc7xMybpj6FgS"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-016-for-the-lulz/idpl.8ecd10d124dd4d1d969733478435b9d9"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-016-for-the-lulz"
 ---
 
 <ol>

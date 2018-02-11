@@ -6,6 +6,8 @@ image: "newsic-007.jpg"
 bgimage: "newsic-007_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/38hcti3WAQWn6enikZ1Fs6"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-007-calm./idpl.737a1914736c405389cd1f69370d90a1"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-007-calm"
 ---
 
 <ol>

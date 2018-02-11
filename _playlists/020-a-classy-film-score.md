@@ -7,6 +7,7 @@ bgimage: "newsic-020_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/0iltdgFrLmO99N2RadjkDd"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-020-a-classy-film-score/idpl.a40112cefdc7492a90a9beec9b4708c3"
 youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvcqQ17KVl6s27MiB2gc3d5O"
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-020-a-classy-film-score"
 ---
 
 <ol>

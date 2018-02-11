@@ -6,6 +6,8 @@ image: "newsic-011.jpg"
 bgimage: "newsic-011_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/4qTPpY14ytkdQ6J9wSdMmi"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-011-look-sun-is-shining!/idpl.100778a375c845aba67382bd54d044bb"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-011-look-the-sun-is-shining"
 ---
 
 <ol>

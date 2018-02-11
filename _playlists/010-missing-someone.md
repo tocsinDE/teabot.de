@@ -6,6 +6,8 @@ image: "newsic-010.jpg"
 bgimage: "newsic-010_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/7mKqRGj4e3DOMq97OvGZ8d"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-010-missing-someone./idpl.4bfb4c2c28294bd492fa6af29a61bb2c"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-010-missing-someone"
 ---
 
 <ol>

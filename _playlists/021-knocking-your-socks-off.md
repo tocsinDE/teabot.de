@@ -7,6 +7,7 @@ bgimage: "newsic-021_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/27Bk931y5mvoAEvwGEL3Sj"
 #applemusic: ""
 youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvdGfWQwj3f1QcqkeCg0CKEi"
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-021-knocking-your-socks-off"
 ---
 
 <ol>

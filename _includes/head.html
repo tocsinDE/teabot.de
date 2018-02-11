@@ -9,7 +9,15 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
- 
+
+  {% if page.title %}<meta property="og:title" content="{{ page.title | escape }}" />{% endif %}
+  <meta property="description" content="{{ _(''Blog von Stephan Fischer über Gecodetes, Musik, Serien und den ganzen anderen Kram.') }}" />
+  <meta property="og:description" content="{{ _('Blog von Stephan Fischer über Gecodetes, Musik, Serien und den ganzen anderen Kram.') }}" />
+  <meta property="og:url" content="{{ request.url }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="teabot" />
+  <meta name="author" content="Stephan Fischer" />
+  <meta name="twitter:site" content="@22uhr" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 

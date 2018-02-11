@@ -6,6 +6,8 @@ image: "newsic-014.jpg"
 bgimage: "newsic-014_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/57j4fYdcvasxzwbn8e5KhZ"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-014-...-won./idpl.06c55b9a970d46e7a503e0ef91e4ef66"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-014-and-won"
 ---
 
 <ol>

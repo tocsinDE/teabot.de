@@ -6,6 +6,8 @@ image: "newsic-002.jpg"
 bgimage: "newsic-002_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/3bgpz3KVePv34bH9lmc3eZ"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-002-here-to-stay/idpl.93240b4c344e41cfbb7dbb8c63188ba5"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-002-here-to-stay"
 ---
 
 <ol>

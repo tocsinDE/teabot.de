@@ -5,6 +5,8 @@ description: "The first chapter - without a concept at all. Just testin' this st
 image: "newsic-001.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/47m3masKRJxZbNPnFjLlYF"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-001-hi-there./idpl.7fa3d539675846ecb5b0a38558faa8a2"
+#youtube: ""
+soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-001-hi-there"
 ---
 
 <ol>
