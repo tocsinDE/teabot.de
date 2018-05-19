@@ -6,8 +6,8 @@ layout: default
   <h1 itemprop="name headline">{{ page.title | escape }}</h1>
 
   <p class="meta">
-    <span class="date" title="Datum der Veröffentlichung"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%d.%m.%y" }}</time></span>
-    {% for tag in page.tags %}<span class="tag" title="Tag"><i class="fa fa-tag" aria-hidden="true"></i> {{ tag }}</span> {% endfor %}
+    <span class="date" title="Datum der Veröffentlichung"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="fas fa-calendar-alt"></i> {{ page.date | date: "%d.%m.%y" }}</time></span>
+    {% for tag in page.tags %}<span class="tag" title="Tag"><i class="fas fa-tag"></i> {{ tag }}</span> {% endfor %}
   </p>
 
   <div class="text" itemprop="articleBody">
