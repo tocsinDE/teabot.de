@@ -17,7 +17,7 @@ title: Teabot
 description: > # this means to ignore newlines until "baseurl:"
   Teabot ist ein kleiner Blog von Stephan Fischer (stephan-fischer.de). Hier geht es um großartige Themen wie Programmierung, Musik und Serien.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://teabot.de" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/blog/:year/:title/"
 markdown: kramdown
 
