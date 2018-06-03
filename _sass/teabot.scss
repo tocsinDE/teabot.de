@@ -227,24 +227,29 @@ footer {
     transition: background 0.3s ease;
 
     a {
-    color: #afdde9;
-    text-decoration: none;
+      color: #afdde9;
+      text-decoration: none;
 
-    &:hover {
-    color: #fff;
+      &:hover {
+      color: #fff;
+      }
     }
-  }
-
   }
 
   a {
     color: #004455;
+    vertical-align: middle;
 
     &:hover {
       color: #fff;
     }
   }
 
+  .tocsinlogo {
+    max-width: 30px;
+    vertical-align: middle;
+    margin-right: 5px;
+  }
 
   .tocsin {
     font-weight: 700;
@@ -336,8 +341,8 @@ h1 {
 }
 
 a .button {
-  display:inline-block;
-  margin-bottom:0.5em;
+  display: inline-block;
+  margin-bottom: 0.5em;
 }
 
 a:hover .button {
@@ -436,7 +441,7 @@ a {
   padding-top: 5%;
   padding-bottom: 5%;
   width: 50%;
-  display:inline-block;
+  display: inline-block;
 
   &:hover span {
     opacity: 1;
@@ -465,12 +470,12 @@ a {
 }
 
 .prev {
-  vertical-align:top;
+  vertical-align: top;
   padding-left: $padding;
 }
 
 .next {
-  vertical-align:top;
+  vertical-align: top;
   padding-right: $padding;
   text-align: right;
 }
@@ -540,13 +545,13 @@ iframe.spotify {
   }
 
   .row.three article:nth-child(odd) {
-    padding-left:$padding !important;
-    padding-right:$padding/2 !important;
+    padding-left: $padding !important;
+    padding-right: $padding/2 !important;
   }
 
   .row.three article:nth-child(even)  {
-    padding-right:$padding !important;
-    padding-left:$padding/2 !important;
+    padding-right: $padding !important;
+    padding-left: $padding/2 !important;
   }
 
 }
@@ -556,9 +561,9 @@ iframe.spotify {
   $padding: 5%;
 
   body {
-    width:$width;
-    margin-top:0;
-    margin-bottom:0
+    width: $width;
+    margin-top: 0;
+    margin-bottom: 0
   }
 
   header, nav, article, footer, .intro, .heading, .prev, .next, .fullimage {
@@ -579,13 +584,13 @@ iframe.spotify {
   }
 
   .row.three article:nth-child(odd) {
-    padding-left:$padding !important;
-    padding-right:$padding/2 !important;
+    padding-left: $padding !important;
+    padding-right: $padding/2 !important;
   }
 
   .row.three article:nth-child(even)  {
-    padding-right:$padding !important;
-    padding-left:$padding/2 !important;
+    padding-right: $padding !important;
+    padding-left: $padding/2 !important;
   }
 
 }
@@ -609,13 +614,13 @@ iframe.spotify {
   }
 
   .row.three article:nth-child(odd) {
-    padding-left:$padding !important;
-    padding-right:$padding !important;
+    padding-left: $padding !important;
+    padding-right: $padding !important;
   }
 
   .row.three article:nth-child(even)  {
-    padding-right:$padding !important;
-    padding-left:$padding !important;
+    padding-right: $padding !important;
+    padding-left: $padding !important;
   }
 }
 
