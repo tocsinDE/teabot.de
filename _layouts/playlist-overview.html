@@ -7,7 +7,7 @@ layout: default
 
 	<div class="text">
 		Ich mag Musik und lege gerne Playlisten zu verschiedenen Themen an.
-		<p>Vielen Dank an <a href="https://felixdoering.com/" target="_blank" title="Felix' Blog">Felix</a>, er stellt diese Listen auf Apple Music zur Verfügung. Auch er besitzt hörenswerte Sammlungen, zu finden <a href="https://felixdoering.com/playlists/" target="_blank" title="Felix' Playlisten">genau hier</a>.</p>
+		<p>Vielen Dank an <a href="https://felixdoering.com/" rel="noopener" target="_blank" title="Felix' Blog">Felix</a>, er stellt diese Listen auf Apple Music zur Verfügung. Auch er besitzt hörenswerte Sammlungen, zu finden <a href="https://felixdoering.com/playlists/" rel="noopener" target="_blank" title="Felix' Playlisten">genau hier</a>.</p>
 	</div>
 </article>
 
@@ -17,7 +17,7 @@ layout: default
 		<img src="/assets/img/playlists/{{ playlist.image }}" alt="{{ playlist.title }}" title="{{ playlist.title }}">
 		<h2>{{ playlist.title }}</h2>
 	</a>
-	<br/>{% if playlist.spotify %}<a href="{{ playlist.spotify }}" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fab fa-spotify"></i> Spotify</span></a>{% endif %}{% if playlist.applemusic %}<br/><a href="{{ playlist.applemusic }}" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fab fa-apple"></i> Apple Music</span></a>{% endif %}{% if playlist.youtube %}<br/><a href="{{ playlist.youtube }}" target="_blank" title="öffnet die Playlist auf YouTube"><span class="button"><i class="fab fa-youtube"></i> YouTube</span></a>{% endif %}{% if playlist.soundcloud %}<br/><a href="{{ playlist.soundcloud }}" target="_blank" title="öffnet die Playlist auf SoundCloud"><span class="button"><i class="fab fa-soundcloud"></i> SoundCloud</span></a>{% endif %}
+	<br/>{% if playlist.spotify %}<a href="{{ playlist.spotify }}" rel="noopener" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fab fa-spotify"></i> Spotify</span></a>{% endif %}{% if playlist.applemusic %}<br/><a href="{{ playlist.applemusic }}" rel="noopener" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fab fa-apple"></i> Apple Music</span></a>{% endif %}{% if playlist.youtube %}<br/><a href="{{ playlist.youtube }}" rel="noopener" target="_blank" title="öffnet die Playlist auf YouTube"><span class="button"><i class="fab fa-youtube"></i> YouTube</span></a>{% endif %}{% if playlist.soundcloud %}<br/><a href="{{ playlist.soundcloud }}" rel="noopener" target="_blank" title="öffnet die Playlist auf SoundCloud"><span class="button"><i class="fab fa-soundcloud"></i> SoundCloud</span></a>{% endif %}
 
 </article>{% endfor %}
 </div>
