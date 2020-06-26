@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-11-02
 title: "newsic #015: Going abroad"
 description: "Home is where the music is. Greetings to Kilian :)"
 image: "newsic-015.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-08
 title: "newsic #004: So far away"
 description: "Because sometimes you don't know where some things start or end. Or where you are. Or what. Or... what?"
 image: "newsic-004.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-11-12
 title: "newsic #017: Have a commercial break"
 description: "Have a break, have a newsic playlist."
 image: "newsic-017.jpg"

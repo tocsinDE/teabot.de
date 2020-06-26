@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-10-22
 title: "newsic #014: ...and won"
 description: "... but I found a way."
 image: "newsic-014.jpg"

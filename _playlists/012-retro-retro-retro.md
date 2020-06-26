@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-08-29
 title: "newsic #012: RetroRetroRetro"
 description: "The third trip to a glorious past."
 image: "newsic-012.jpg"

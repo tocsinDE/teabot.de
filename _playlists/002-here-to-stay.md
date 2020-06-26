@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-06-11
 title: "newsic #002: Here to stay"
 description: "Like #001: No clear theme at all :)"
 image: "newsic-002.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-09-16
 title: "newsic #016: For the lulz"
 description: "Don't judge me on that."
 image: "newsic-016.jpg"

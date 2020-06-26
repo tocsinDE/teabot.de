@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-04-28
 title: "newsic #001: Hi there"
 description: "The first chapter - without a concept at all. Just testin' this stuff."
 image: "newsic-001.jpg"

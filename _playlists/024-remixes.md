@@ -1,9 +1,10 @@
 ---
 layout: playlist
+date: 2018-01-17
 title: "newsic #024: Remixes"
 description: ""
 image: "newsic-024.jpg"
-bgimage: "newsic-024_bg.jpg"
+#bgimage: "newsic-024_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/5W4kMDAZxzQ2wn72y1GMMe"
 #applemusic: ""
 #youtube: "https://www.youtube.com/playlist?list="

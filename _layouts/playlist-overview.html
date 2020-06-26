@@ -14,10 +14,14 @@ layout: default
 <div class="row three">
 	{% for playlist in site.playlists %}<article>
 	<a href="{{ playlist.url }}">
-		<img src="/assets/img/playlists/{{ playlist.image }}" alt="{{ playlist.title }}" title="{{ playlist.title }}">
+		{% if playlist.image %}<img src="/assets/img/playlists/{{ playlist.image }}" alt="{{ playlist.title }}" title="{{ playlist.title }}">{% endif %}
 		<h2>{{ playlist.title }}</h2>
 	</a>
-	<br/>{% if playlist.spotify %}<a href="{{ playlist.spotify }}" rel="noopener" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fab fa-spotify"></i> Spotify</span></a>{% endif %}{% if playlist.applemusic %}<br/><a href="{{ playlist.applemusic }}" rel="noopener" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fab fa-apple"></i> Apple Music</span></a>{% endif %}{% if playlist.youtube %}<br/><a href="{{ playlist.youtube }}" rel="noopener" target="_blank" title="öffnet die Playlist auf YouTube"><span class="button"><i class="fab fa-youtube"></i> YouTube</span></a>{% endif %}{% if playlist.soundcloud %}<br/><a href="{{ playlist.soundcloud }}" rel="noopener" target="_blank" title="öffnet die Playlist auf SoundCloud"><span class="button"><i class="fab fa-soundcloud"></i> SoundCloud</span></a>{% endif %}
+	<br/>
+	{% if playlist.spotify %}<a href="{{ playlist.spotify }}" rel="noopener" target="_blank" title="Playlist auf Spotify anhören"><span class="button"><i class="fab fa-spotify fa-lg"></i> <!--Spotify --></span></a>{% endif %}
+	{% if playlist.applemusic %}<a href="{{ playlist.applemusic }}" rel="noopener" target="_blank" title="Playlist auf Apple Music anhören"><span class="button"><i class="fab fa-apple fa-lg"></i> <!--Apple Music--></span></a>{% endif %}
+	{% if playlist.youtube %}<a href="{{ playlist.youtube }}" rel="noopener" target="_blank" title="Playlist auf YouTube anhören"><span class="button"><i class="fab fa-youtube fa-lg"></i> <!--YouTube--></span></a>{% endif %}
+	{% if playlist.soundcloud %}<a href="{{ playlist.soundcloud }}" rel="noopener" target="_blank" title="Playlist auf SoundCloud anhören"><span class="button"><i class="fab fa-soundcloud fa-lg"></i><!-- SoundCloud--></span></a>{% endif %}
 
 </article>{% endfor %}
 </div>

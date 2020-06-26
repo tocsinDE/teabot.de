@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-01
 title: "newsic #003: Go full retro"
 description: "Never go full retro! ...except for this playlist!"
 image: "newsic-003.jpg"

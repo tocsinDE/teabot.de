@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2017-01-02
 title: "newsic #022: (Retro²)²"
 description: "Still a better name than RetroRetroRetroRetro."
 image: "newsic-022.jpg"

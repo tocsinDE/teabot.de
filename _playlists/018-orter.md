@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-12-24
 title: "newsic #018: orteR"
 description: "Going back in another way: Full-refurbished songs delivered freshly made."
 image: "newsic-018.jpg"

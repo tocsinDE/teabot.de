@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-09-06
 title: "newsic #013: Lost..."
 description: "Running away, please don't ask me where I go..."
 image: "newsic-013.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2017-03-23
 title: "newsic #021: Knocking your socks off"
 description: '"These go to eleven!" - [This Is Spinal Tap]'
 image: "newsic-021.jpg"

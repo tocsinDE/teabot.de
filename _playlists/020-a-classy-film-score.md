@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2017-03-03
 title: "newsic #020: A classy film score"
 description: '"Weißt du, was ich manchmal denke? Es müsste immer Musik da sein. Bei allem, was du machst. Und wenns so richtig scheiße ist, ist wenigstens noch die Musik da. Und an der Stelle, wo es am allerschönsten ist, da müsste die Platte springen und du hörst immer nur diesen einen Moment." - [Absolute Giganten]'
 image: "newsic-020.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-26
 title: "newsic #010: Missing someone"
 description: "Missing someone special."
 image: "newsic-010.jpg"

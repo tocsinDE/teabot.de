@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-08
 title: "newsic #005: Cosmonautic"
 description: "Nifty little collection of the Kosmonaut Festival 2016 (Chemnitz, Germany)."
 image: "newsic-005.jpg"

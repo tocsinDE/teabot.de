@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-17
 title: "newsic #008: Retro, again"
 description: "As previously shown: Going retro isn't something bad. Here we go again!"
 image: "newsic-008.jpg"

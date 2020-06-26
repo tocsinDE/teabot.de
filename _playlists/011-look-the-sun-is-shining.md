@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-08-29
 title: "newsic #011: Look, the sun is shining!"
 description: "You can miss someone. Or look at the good things in life. Now you're free to puzzle out what these songs are about."
 image: "newsic-011.jpg"

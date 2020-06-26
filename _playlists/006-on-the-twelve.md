@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-08
 title: "newsic #006: On the twelve"
 description: "Bad german-based pun. Good wake maker."
 image: "newsic-006.jpg"

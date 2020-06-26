@@ -1,5 +1,6 @@
 ---
 layout: playlist
+date: 2016-07-19
 title: "newsic #009: Meet the soundtracker"
 description: "Based on good and even more recommendable movies, series & games."
 image: "newsic-009.jpg"

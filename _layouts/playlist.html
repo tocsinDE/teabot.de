@@ -3,37 +3,46 @@ layout: default
 ---
 
 <div class="fullimage" style="background-image:url('/assets/img/playlists/{% if page.bgimage %}{{ page.bgimage }}{% else %}{{ page.image }}{% endif %}')">
-
 	{% if page.previous.url %}<a href="{{ page.previous.url }}" title="← zur vorherigen Playlist"><span>← {{ page.previous.title }}</span></a>{% endif %}
 	{% if page.next.url %}<a href="{{ page.next.url }}" title="zur nächsten Playlist →"><span class="fr">{{ page.next.title }} →</span></a>{% endif %}
-
 </div>
 
 <article>
-
 	<h1 itemprop="name headline">{{ page.title }}</h1>
 
 	<div class="playlist">
 		{{ content }}
+
+		{%- if page.date %}
+			<p>
+				<i>Veröffentlicht am {{ page.date | date: "%d.%m.%Y" }}.</i>
+			</p>
+		{% endif -%}
 	</div>
 
 	<aside>
+		{%- if page.image %}
+			<img src="/assets/img/playlists/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}" />
+		{% endif -%}
 
-		{% if page.image %}<img src="/assets/img/playlists/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}" />{% endif %}
-
-		<p class="text">
-			<i>{{ page.description }}</i>
-		</p>
+		{%- if page.description %}
+			<p class="text">
+				<i>{{ page.description }}</i>
+			</p>
+		{% endif -%}
 		
-		{% if page.spotify %}<p>
-			<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:user:letslistentogether:playlist:{{ page.spotify }}&theme=white"></iframe>
-		</p>{% endif %}
 		<p>
-			{% if page.spotify %}<a href="{{ page.spotify }}" rel="noopener" target="_blank" title="öffnet die Playlist auf Spotify"><span class="button"><i class="fab fa-spotify"></i> Spotify</span></a>{% endif %}
-			{% if page.applemusic %}<br/><a href="{{ page.applemusic }}" rel="noopener" target="_blank" title="öffnet die Playlist auf Apple Music"><span class="button"><i class="fab fa-apple"></i> Apple Music</span></a>{% endif %}
-			{% if page.youtube %}<br/><a href="{{ page.youtube }}" rel="noopener" target="_blank" title="öffnet die Playlist auf YouTube"><span class="button"><i class="fab fa-youtube"></i> YouTube</span></a>{% endif %}
-			{% if page.soundcloud %}<br/><a href="{{ page.soundcloud }}" rel="noopener" target="_blank" title="öffnet die Playlist auf SoundCloud"><span class="button"><i class="fab fa-soundcloud"></i> SoundCloud</span></a>{% endif %}
+			{% if page.spotify %}<a href="{{ page.spotify }}" rel="noopener" target="_blank" title="Playlist auf Spotify anhören"><span class="button"><i class="fab fa-spotify fa-lg"></i> <!--Spotify --></span></a>{% endif %}
+			{% if page.applemusic %}<a href="{{ page.applemusic }}" rel="noopener" target="_blank" title="Playlist auf Apple Music anhören"><span class="button"><i class="fab fa-apple fa-lg"></i> <!--Apple Music--></span></a>{% endif %}
+			{% if page.youtube %}<a href="{{ page.youtube }}" rel="noopener" target="_blank" title="Playlist auf YouTube anhören"><span class="button"><i class="fab fa-youtube fa-lg"></i> <!--YouTube--></span></a>{% endif %}
+			{% if page.soundcloud %}<a href="{{ page.soundcloud }}" rel="noopener" target="_blank" title="Playlist auf SoundCloud anhören"><span class="button"><i class="fab fa-soundcloud fa-lg"></i><!-- SoundCloud--></span></a>{% endif %}
 		</p>
+
+		{%- if page.spotify %}
+			<p>
+				<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:user:letslistentogether:playlist:{{ page.spotify }}&theme=white"></iframe>
+			</p>
+		{% endif -%}
 
 	</aside>
 </article>

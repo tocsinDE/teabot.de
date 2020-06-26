@@ -1,9 +1,10 @@
 ---
 layout: playlist
+date: 2017-07-29
 title: "newsic #023: Cozy evening"
 description: "Find peace with magnificent instrumental tracks."
 image: "newsic-023.jpg"
-bgimage: "newsic-023_bg.jpg"
+#bgimage: "newsic-023_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/6irARo2HlCKt2RdOkWKhea"
 #applemusic: ""
 #youtube: "https://www.youtube.com/playlist?list="
