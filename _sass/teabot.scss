@@ -22,6 +22,7 @@ $padding: 15%;
     url("fonts/#{$font}/#{$filename}.svg##{$font}") format("svg");
   font-style: $style;
   font-weight: $weight;
+  font-display: swap;
 }
 
 @font-face {
