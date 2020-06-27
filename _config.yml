@@ -25,7 +25,7 @@ collections:
   playlists:
     output: true
     permalink: /playlists/:path/
-    sort_by: title
+    sort_by: title,date
 
 sass:
     sass_dir: _sass
@@ -45,3 +45,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - repoheader.png
+  - README.md

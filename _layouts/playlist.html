@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="fullimage" style="background-image:url('/assets/img/playlists/{% if page.bgimage %}{{ page.bgimage }}{% else %}{{ page.image }}{% endif %}')">
 	{% if page.previous.url %}<a href="{{ page.previous.url }}" title="← zur vorherigen Playlist"><span>← {{ page.previous.title }}</span></a>{% endif %}
 	{% if page.next.url %}<a href="{{ page.next.url }}" title="zur nächsten Playlist →"><span class="fr">{{ page.next.title }} →</span></a>{% endif %}
