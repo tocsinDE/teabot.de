@@ -25,6 +25,7 @@ collections:
   playlists:
     output: true
     permalink: /playlists/:path/
+    sort_by: title
 
 sass:
     sass_dir: _sass
@@ -32,9 +33,15 @@ sass:
 
 plugins:
   - jekyll-feed
+# default excludes
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - repoheader.png
-  - README.md
-  - vendor
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

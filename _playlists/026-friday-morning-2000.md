@@ -1,7 +1,6 @@
 ---
 layout: playlist
 date: 2018-03-30
-#published: false
 title: "newsic #026: Friday Morning 2000"
 description: '"Your Tamagotchi died", my Furby said.'
 #image: "newsic-026.jpg"

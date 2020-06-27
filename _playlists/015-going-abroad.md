@@ -7,7 +7,7 @@ image: "newsic-015.jpg"
 bgimage: "newsic-015_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/0oCUFUpFFLsi5MpayTDOob"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-015-going-abroad./idpl.edab52b2341c445dafa49cf77455513a"
-youtube: "https://www.youtube.com/watch?list=PLdduFHK2eLvdT81mOgKSmIPhng4R8OOo4"
+youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvdT81mOgKSmIPhng4R8OOo4"
 soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-015-going-abroad"
 ---
 

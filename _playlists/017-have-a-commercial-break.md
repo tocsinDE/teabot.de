@@ -7,7 +7,7 @@ image: "newsic-017.jpg"
 bgimage: "newsic-017_bg.jpg"
 spotify: "https://open.spotify.com/user/letslistentogether/playlist/6POrHuI2gROGWtsi77uV7Z"
 applemusic: "https://itunes.apple.com/de/playlist/newsic-017-have-commercial/idpl.35bdcf51cb324c10addd579bf994e1b9"
-youtube: "https://www.youtube.com/watch?list=PLdduFHK2eLvfkM84i8EcT0pySo9Zcnohj"
+youtube: "https://www.youtube.com/playlist?list=PLdduFHK2eLvfkM84i8EcT0pySo9Zcnohj"
 soundcloud: "https://soundcloud.com/newsicmixtapes/sets/newsic-017-have-a-commercial-break"
 ---
 
