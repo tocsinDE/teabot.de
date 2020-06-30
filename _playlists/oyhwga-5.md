@@ -13,4 +13,5 @@ soundcloud: "https://soundcloud.com/newsicmixtapes/sets/oyhwga-5"
     <li>Something Has to Change - The Japanese House</li>
     <li>Out Of Sight - The Beths</li>
     <li>Punisher - Phoebe Bridgers</li>
+    <li>Blinding Lights - The Naked And Famous</li>
 </ol>
