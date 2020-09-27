@@ -5,7 +5,7 @@ title: "newsic #026: Friday Morning 2000"
 description: '"Your Tamagotchi died", my Furby said.'
 #image: "newsic-026.jpg"
 #bgimage: "newsic-026_bg.jpg"
-spotify: "https://open.spotify.com/playlist/1sQoGOcFaD5Gps5kzfkgtz"
+spotify: "https://open.spotify.com/user/letslistentogether/playlist/1sQoGOcFaD5Gps5kzfkgtz"
 #applemusic: ""
 #youtube: "https://www.youtube.com/playlist?list="
 soundcloud: "https://soundcloud.com/newsicmixtapes/sets/friday-morning-2000-newsic-026"

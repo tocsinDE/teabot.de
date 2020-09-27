@@ -39,7 +39,7 @@ layout: default
 
 		{%- if page.spotify %}
 			<p>
-				<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:user:letslistentogether:playlist:{{ page.spotify }}&theme=white"></iframe>
+				<iframe class="spotify" src="https://open.spotify.com/embed/playlist/{{ page.spotify | remove: 'https://open.spotify.com/user/letslistentogether/playlist/' }}" allow="encrypted-media"></iframe>
 			</p>
 		{% endif -%}
 

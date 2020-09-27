@@ -3,7 +3,7 @@ layout: playlist
 date: 2020-02-22
 title: "OYHWGA I"
 image: "oyhwga-1.png"
-spotify: "https://open.spotify.com/playlist/7mKYO8JF6x7An3lFnyFHFW"
+spotify: "https://open.spotify.com/user/letslistentogether/playlist/7mKYO8JF6x7An3lFnyFHFW"
 soundcloud: "https://soundcloud.com/newsicmixtapes/sets/oyhwga-1"
 ---
 
