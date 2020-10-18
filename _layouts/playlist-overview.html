@@ -14,7 +14,7 @@ layout: default
 <div class="row three">
 	{%- for playlist in site.playlists  %}<article>
 		<a href="{{ playlist.url }}">
-			{% if playlist.image %}<img src="/assets/img/playlists/{{ playlist.image }}" alt="{{ playlist.title }}" title="{{ playlist.title }}" />{% endif %}
+			{% if playlist.image %}<img src="/assets/img/playlists/{{ playlist.image }}" alt="{{ playlist.title }}" title="{{ playlist.title }}" loading="lazy" />{% endif %}
 			<h2>{{ playlist.title }}</h2>
 		</a><br/>
 		{% if playlist.spotify %}<a href="{{ playlist.spotify }}" rel="noopener" target="_blank" title="Playlist auf Spotify anhören"><span class="button"><i class="fab fa-spotify fa-lg"></i> <!--Spotify --></span></a>{% endif %}
